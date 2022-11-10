@@ -266,6 +266,10 @@ a {
     gap: 32px;
 }
 
+.popular .offers a {
+    display: flex;
+}
+
 .popular .offers article {
     display:flex;
     background-color: #fff;
