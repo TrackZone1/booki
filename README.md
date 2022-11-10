@@ -1,5 +1,4 @@
 # Booki
-![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
 <img alt="pageScreen" src="https://github.com/TrackZoneV2/booki/blob/main/images/page.png" width="80%">
 
 ### Responsive
@@ -15,3 +14,4 @@ Phone: (max-width: 768px)
         alt="CSS Valide !" />
     </a>
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
