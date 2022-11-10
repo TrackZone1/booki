@@ -7,6 +7,8 @@ Desktop: (max-width: 1400px)
 Tablet: (min-width: 768px) and (max-width: 992px)
 Phone: (max-width: 768px)
 
+![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
+
 <p>
 <a href="https://github.com/TrackZoneV2/booki">
     <img style="border:0;width:88px;height:31px"
@@ -14,4 +16,3 @@ Phone: (max-width: 768px)
         alt="CSS Valide !" />
     </a>
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
