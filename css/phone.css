@@ -1,0 +1,119 @@
+body{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.topBar {
+    flex-direction: column;
+}
+
+.topBar img {
+    margin: 21px;
+}
+
+.topBar ul {
+    width: 100%;
+}
+
+.topBar ul li {
+    padding: 23px !important;
+    width: 100%;
+    text-align: center;
+}
+
+.topBar ul li:hover {
+    border-top: none !important;
+    border-bottom: 2px solid #0065FC;
+}
+
+.topBar ul li {
+    border-bottom: 2px solid #F2F2F2;
+}
+
+.filtres {
+    display:flex;
+    gap: 14px !important;
+}
+
+.filtres h2 {
+    width: 100%;
+}
+
+.filtres button {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: 47%;
+    font-size: 11px !important;
+    line-height: 13px !important;
+    border: 2px solid #F2F2F2 !important;
+}
+
+.filtres button:hover {
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
+}
+
+.filtres button i {
+    font-size: 21px !important;
+    margin-right: 5px;
+}
+
+.title, .search, .filtres, .info, .activity {
+    margin: 20px;
+}
+
+.search {
+    width: 100%;
+}
+
+.search form .button::after {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Solid" !important;
+    content: "\f002" !important;
+}
+
+.hosting {
+    flex-direction: column-reverse;
+}
+
+.hosting .popular {
+    margin-left: 0 !important;
+    border-radius: 0 !important;
+    padding: 41px 20px 34px 21px;
+}
+
+.popular .offers article {
+    width: 100%;
+}
+
+.hosting .country {
+    margin-left: 0 !important;
+    border-radius: 0 !important;
+    background: #fff !important;
+    padding: 40px 20px;
+}
+
+.hosting .country .offers {
+    flex-direction: column;
+    gap: 12px !important;
+}
+
+.hosting .country h3 {
+    visibility: collapse;
+}
+
+.activity div {
+    flex-direction: column;
+}
+
+.activity div article {
+    width: 100%;
+}
+
+.activity div article img {
+    height: 134px !important;
+}
+
+.footer {
+    flex-direction: column;
+}
