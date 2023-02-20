@@ -68,6 +68,12 @@ body{
     content: "\f002" !important;
 }
 
+@media screen and (max-width: 360px) {
+    .search form input {
+        width: 100%;
+    }
+}
+
 .hosting {
     flex-direction: column-reverse;
 }
