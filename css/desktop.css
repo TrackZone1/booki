@@ -298,7 +298,7 @@ a {
 
 .popular .offers article img {
     height: 148px;
-    max-width: 137px;
+    max-width: 90px;
     width: calc(100% - 10px);
     border: 5px solid #FFFFFF;
     border-radius: 20px 0px 0px 20px;
